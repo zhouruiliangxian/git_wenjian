@@ -11,3 +11,4 @@ hello git!hello world!
 hello git!hello world!
 hello git!hello world!xiugaibenzhi
 checkout hot-fix
+pull
